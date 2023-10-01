@@ -3,7 +3,7 @@
 I'm an IT student and indie game developer.
 
 For the most part I use **C#** and **Python**, but I have experience with other languages like Java, C, C++, Prolog and R.
-I'm also pretty good in creating 3D graphics using Blender and have basic experience with web development using CSS and HTML.
+I'm also pretty good at creating 3D graphics using Blender and have basic experience with web development using CSS and HTML.
 
 If you want to see games that me and my friend made so far, check our [itch.io](https://travmasoft.itch.io) page
 

@@ -1,14 +1,14 @@
 ### Hey hey 👋
 
-I'm an IT student and indie game developer.
+I'm an IT graduate and indie game developer.
 
-For the most part I use **C#** and **Python**, but I have experience with other languages like Java, C, C++, Prolog and R.
-I'm also pretty good at creating 3D graphics using Blender and have basic experience with web development using CSS and HTML.
+For the most part I use **C#** and I'm currently getting up to speed with Java, but I have experience with other languages like Python, C, C++, Prolog and R.
+I'm also pretty good at creating 3D graphics using Blender and have experience with web development using CSS, HTML and JS.
 
 If you want to see games that me and my friend made so far, check our [itch.io](https://travmasoft.itch.io) page
 
 - 🔭 I’m currently working on developing my own games using Unity and C#
-- 🌱 I’m currently learning C, Django and JS
+- 🌱 I’m currently learning Java, C and web development
 - 📫 You can reach me via my [Twitter](https://twitter.com/aspsyxia) account
 
 <!--
